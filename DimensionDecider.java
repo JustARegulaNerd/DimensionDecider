@@ -1,3 +1,9 @@
+/******************************
+Author:		JustARegularNerd
+Date:		03/04/2020
+Purpose:	Makes a decision on what dimension you should /warp to based on either easter egg dimensions or randomly generated ones
+******************************/
+
 import javax.swing.JOptionPane;
 import java.lang.Math;
 
